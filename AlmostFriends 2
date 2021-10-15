@@ -296,12 +296,20 @@
             "last_updated": "1632609742"
             },
         "36": {
-            "title": "Break",
+            "title": "Split",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/WqXskJ8/"
             },
             "last_updated": "1633823510"
+             },
+        "37": {
+            "title": "Drift Away",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/qUMuCNl/"
+            },
+            "last_updated": "1634267653"
         }
     }
 }
