@@ -304,7 +304,7 @@
             "last_updated": "1633823510"
              },
         "37": {
-            "title": "Drift Away",
+            "title": "Drift Apart",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/qUMuCNl/"
@@ -318,6 +318,14 @@
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/CvjrJqU/"
             },
             "last_updated": "1634434164"
+            },
+        "39": {
+            "title": "I Want to See You",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/YWaYiAg/"
+            },
+            "last_updated": "1634771249"
         }
     }
 }
